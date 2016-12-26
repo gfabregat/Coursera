@@ -1,5 +1,56 @@
-	<style>
+/** {
+	box-sizing: border-box;
+	margin: 0px;
+}
+h1 {
+	color: red;
+}
+div {
+	position: relative;
+	border: 1px solid black;
+	margin: 20px;
+	padding: 0px 10px 0px 10px;
+}
+
+h2 {
+	position: relative;
+	left: -1px;
+	font-size: 100%;
+	width: 75px;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	padding-bottom: 10px;
+}
+p {
+	clear: right;
+}*/
+<style>
+		* {
+		box-sizing: border-box;
+		margin: 0px;
+		}
 		h1 {
 			color: red;
 		}
-	</style>
+		div {
+			position: relative;
+			border: 1px solid black;
+			margin: 20px;
+			padding: 0px 10px 0px 10px;
+		}
+
+		h2 {
+			position: relative;
+			left: -1px;
+			font-size: 100%;
+			width: 75px;
+			border-left: 1px solid black;
+			border-bottom: 1px solid black;
+			border-right: 1px solid black;
+			padding-bottom: 10px;
+		}
+		p {
+			clear: right;
+		}
+	/*</style>*/
